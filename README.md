@@ -16,4 +16,3 @@ Funktioner att implementera:
 * multiplikation
 * division
 * hjälpfunktion
-* abra kadabra
